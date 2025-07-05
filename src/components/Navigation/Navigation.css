@@ -1,0 +1,17 @@
+nav {
+  position: relative;
+  z-index: 50;
+  background: #0000;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Ensure mobile menu takes full height */
